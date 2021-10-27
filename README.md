@@ -8,7 +8,7 @@ Note: Might not work with RoRCheats
 
 ## Examples
 
-Cautious Slug (Heal Out of Combat)
-Wax Quail (Sprint Jump Boost)
-N'kuhana's Opinion (Fire Skulls When Healed)
-Fuel Cell (+Equipment Charge)
+* Cautious Slug (Heal Out of Combat)
+* Wax Quail (Sprint Jump Boost)
+* N'kuhana's Opinion (Fire Skulls When Healed)
+* Fuel Cell (+Equipment Charge)

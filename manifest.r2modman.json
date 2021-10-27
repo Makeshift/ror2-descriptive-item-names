@@ -3,7 +3,7 @@
   "AuthorName": "Makeshift",
   "Name": "Makeshift-DescriptiveItemNames",
   "DisplayName": "DescriptiveItemNames",
-  "Version": "0.1.0",
+  "Version": "0.1.1",
   "Licence": "",
   "WebsiteURL": "https://github.com/Makeshift/ror2-descriptive-item-names",
   "Description": "Adds a short description to every item name.",
