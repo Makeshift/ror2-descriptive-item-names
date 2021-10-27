@@ -1,0 +1,26 @@
+{
+  "ManifestVersion": 2,
+  "AuthorName": "Makeshift",
+  "Name": "Makeshift-DescriptiveItemNames",
+  "DisplayName": "DescriptiveItemNames",
+  "Version": "0.1.0",
+  "Licence": "",
+  "WebsiteURL": "https://github.com/Makeshift/ror2-descriptive-item-names",
+  "Description": "Adds a short description to every item name.",
+  "GameVersion": "N/A",
+  "Dependencies": [
+    "bbepis-BepInExPack-3.2.0",
+    "RiskofThunder-HookGenPatcher-1.2.1",
+    "tristanmcpherson-R2API-2.4.21",
+    "Harb-AssetPlusRequester-1.0.0"
+  ],
+  "OptionalDependencies": [],
+  "Incompatibilities": [],
+  "NetworkMode": "both",
+  "PackageType": "mod",
+  "InstallMode": "managed",
+  "Loaders": [
+      "bepinex"
+  ],
+  "ExtraData": {}
+}
