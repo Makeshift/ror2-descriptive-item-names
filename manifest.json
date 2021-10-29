@@ -1,7 +1,7 @@
 {
   "name": "DescriptiveItemNames",
   "author": "Makeshift",
-  "version_number": "0.1.1",
+  "version_number": "0.1.2",
   "website_url": "https://github.com/Makeshift/ror2-descriptive-item-names",
   "description": "Adds a short description to every item name.",
   "dependencies": [

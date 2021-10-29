@@ -169,7 +169,7 @@
 	"ITEM_INFUSION_DESC": "Killing an enemy increases your <style=cIsHealing>health permanently</style> by <style=cIsHealing>1</style> <style=cStack>(+1 per stack)</style>, up to a <style=cIsHealing>maximum</style> of <style=cIsHealing>100 <style=cStack>(+100 per stack)</style> health</style>.",
 	"ITEM_INFUSION_LORE" : "Order: Infusion\r\nTracking Number: 768******\r\nEstimated Delivery: 02\/8\/2056\r\nShipping Method: Priority\/Biological\r\nShipping Address: Rage Valley, Fleet Hanger, Mars\r\n\r\nContains samples from bears, leeches, tigers, elephants, elephant sharks, sharks, bull sharks, ants, and anteaters. Simply hook up to a dialysis machine along with the necessary equipment and swap out your blood for genetically superior ones! \r\n\r\nYou can add whatever blood sample you want, as far as I know. Just make sure you take the pills that allow the body to accept the new blood, or your body will reject the cross-species infusion. Remember that sampling from other animals is a great basis for experimentation!\r\n",
 
-	"ITEM_SHOCKNEARBY_NAME": "Unstable Tesla Coil" (AoE Lightning),
+	"ITEM_SHOCKNEARBY_NAME": "Unstable Tesla Coil (AoE Lightning)",
 	"ITEM_SHOCKNEARBY_PICKUP": "Shock all nearby enemies every 10 seconds.",
 	"ITEM_SHOCKNEARBY_DESC": "Fire out <style=cIsDamage>lightning</style> that hits <style=cIsDamage>3</style> <style=cStack>(+2 per stack)</style> enemies for <style=cIsDamage>200%</style> base damage every <style=cIsDamage>0.5s</style>. The Tesla Coil switches off every <style=cIsDamage>10 seconds</style>.",
 	"ITEM_SHOCKNEARBY_LORE": "<style=cMono>Tesla Presentation Software v1.14\r\nPowering on...\r\n10...\r\nIssuing welcome statement...\r\n9...</style>\r\nWelcome one and all!\r\n<style=cMono>8...</style>\r\nPlease take a seat.\r\n<style=cMono>7...</style>\r\nMake sure those behind you can see.\r\n<style=cMono>6...</style>\r\nThe presentation will start shortly.\r\n<style=cMono>5...</style>\r\nPlease obey the staff for your safety.\r\n<style=cMono>4...\r\nInitiating room mood lighting...\r\n3...</style>\r\nGet ready to behold...\r\n<style=cMono>2...</style>\r\nThe marvelous wonders...\r\n<style=cMono>1...</style>\r\nOf electricity!\r\n<style=cMono>Power anomaly detected...\r\nInitiating reboot procedure in 10...</style>\r\n",
@@ -265,7 +265,7 @@
 	"ITEM_SPRINTARMOR_LORE" : "Order: Please let me know when you get this. I foun...\r\nTracking Number: 53******\r\nEstimated Delivery: 05\/22\/2056\r\nShipping Method: Priority\r\nShipping Address: Research Center, Polarity Zone, Neptune\r\nShipping Details:\r\n\r\nBTW Mama should have sent over another package as well. Let me know when you get it.\r\n\r\nPapa",
 	
 	"ITEM_ELEMENTALRINGS_NAME" : "Kjaro and Runald's Bands (Ice Blast)",
-	"ITEM_ICERING_NAME": "Runald's Band",
+	"ITEM_ICERING_NAME": "Runald's Band (Ice Blast)",
 	"ITEM_ICERING_PICKUP": "High damage hits also blasts enemies with runic ice. Recharges over time.",
 	"ITEM_ICERING_DESC": "Hits that deal <style=cIsDamage>more than 400% damage</style> also blasts enemies with a <style=cIsDamage>runic ice blast</style>, <style=cIsUtility>slowing</style> them by <style=cIsUtility>80%</style> for <style=cIsUtility>3s</style> <style=cStack>(+3s per stack)</style> and dealing <style=cIsDamage>250%</style> <style=cStack>(+250% per stack)</style> TOTAL damage. Recharges every <style=cIsUtility>10</style> seconds.",
 	"ITEM_ICERING_LORE": "\"Should memories be lost,\r\nShould oceans be clouded,\r\nWill you bring me fervor?\r\nWill you die with me?\"\r\n\r\n-The Syzygy of Io and Europa\r\n",
@@ -368,7 +368,7 @@
 	"ITEM_NEARBYDAMAGEBONUS_LORE": "Order: Condensed Matter Crystal [50kg, 10cm by 10cm by 10cm]\r\nTracking Number: 12***********\r\nEstimated Delivery: 05\/23\/2056\r\nShipping Method:  Standard\r\nShipping Address: Geofferson Principality, Highward, Titan\r\nShipping Details: \r\n\r\nHope they don\u2019t up the price for this thing. I haven\u2019t had troubles with UES before, but I\u2019ve never had to ship a crystal this far before. Let me know if the package is marked as \u201Cheavy\u201D when you get it.\r\n",
 	
 	"ITEM_LUNARSKILLREPLACEMENTS_NAME" : "Heresy Set (Replace Utility With Invisibility)",
-	"ITEM_LUNARUTILITYREPLACEMENT_NAME": "Strides of Heresy",
+	"ITEM_LUNARUTILITYREPLACEMENT_NAME": "Strides of Heresy (Replace Utility With Invisibility)",
 	"ITEM_LUNARUTILITYREPLACEMENT_PICKUP": "Replace your Utility Skill with 'Shadowfade'.",
 	"ITEM_LUNARUTILITYREPLACEMENT_DESC": "<style=cIsUtility>Replace your Utility Skill</style> with <style=cIsUtility>Shadowfade</style>. \n\nFade away, becoming <style=cIsUtility>intangible</style> and gaining <style=cIsUtility>+30% movement speed</style>. <style=cIsHealing>Heal</style> for <style=cIsHealing>25% <style=cStack>(+25% per stack)</style> of your maximum health</style>. Lasts 3 <style=cStack>(+3 per stack)</style> seconds.",
 	"ITEM_LUNARUTILITYREPLACEMENT_LORE" : "\u201CHer legs were scattered to the two poles of the moon, twisted in a wicked position, in a field of obsidian thorns\u2026\"\r\n\r\n-The Evisceration of Kur-skan the Heretic, V\r\n",
